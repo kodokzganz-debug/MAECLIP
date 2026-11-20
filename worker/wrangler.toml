@@ -6,7 +6,7 @@ compatibility_date = "2025-01-09"
 binding = "AI"
 
 [vars]
-APP_ORIGIN = "https://YOUR-USERNAME.github.io"
+APP_ORIGIN = "https://kodokzganz-debug.github.io"
 
 # Deploy with: npx wrangler deploy
 # Cloudflare AI binding must be enabled in your account.

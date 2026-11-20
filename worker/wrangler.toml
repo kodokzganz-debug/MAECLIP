@@ -1,0 +1,12 @@
+name = "maeclip-api"
+main = "src/index.ts"
+compatibility_date = "2025-01-09"
+
+[ai]
+binding = "AI"
+
+[vars]
+APP_ORIGIN = "https://YOUR-USERNAME.github.io"
+
+# Deploy with: npx wrangler deploy
+# Cloudflare AI binding must be enabled in your account.
